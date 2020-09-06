@@ -2,11 +2,11 @@
 
 ## 这是主分支master
 
-## 主分支第qweqwesd一次提交
+## 主分支第qweqwesd一次tijiao
 
 > 主分支第一次提交
 
-## 主分支下的第二次提交
+## 主分支下的第二次tijiao
 
     主分支下的第二次提交
 
@@ -16,7 +16,7 @@
 
 ## 主分支第一次提交下的首个分支`firstBranch`
 
-### `firstBranch`分支下的第一次提交
+### `firstBranch`分支下的第一次tijiao
 
 ## 将`firstBranch`合并到主分支后的第一次提交
 
