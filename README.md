@@ -26,10 +26,8 @@
 
 ## pc上的修改
 
-<<<<<<< HEAD
 ## 这是在github上的直接修改
 
 hahha
-=======
-## 这是在github上的直接
->>>>>>> a5f9a14f3aaa11383a7cd58fa58a0c184d0ff44c
+
+## xiugai
